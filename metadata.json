@@ -1,0 +1,8 @@
+{
+  "name": "QueryBot Platform",
+  "description": "A high-contrast, brutalist-designed platform for companies to upload knowledge and generate dedicated query bots powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
